@@ -6,40 +6,14 @@
 <h5 align="center">Connect with me:</h5>
 <p align="center">
 <a href="https://linkedin.com/in/azevedo94" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="azevedo94" height="30" width="90" /></a>
-
 </p>
 
-<h4 align="center">Languages and SO:</h4>
-<p align="center"> 
-<a href="https://www.python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="90" height="50"/>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="90" height="50"/> 
-</a>
- 
-<h4 align="center">Tools:</h4>
-<p align="center">
-<a href="https://airflow.apache.org/" target="_blank"> <img src="https://api.iconify.design/logos/airflow.svg" alt="airflow" width="90" height="50"/> 
-</a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="90" height="50"/> 
-</a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="90" height="50"/> 
-</a> 
- 
-<h4 align="center">Cloud:</h4>
-<p align="center">
-<a href="https://cloud.google.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="90" height="50"/> 
-</a>
- 
- 
-<h4 align="center">Database:</h4>
-<p align="center">
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="90" height="50"/> </p>
- 
-<h4 align="center">I'm learning:</h4>
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="90" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="90" height="50"/>
-</p>
+`About me:` 
+- At work I try to expose myself in situations that challenge me, generate value and add knowledge. My goal is to provide data in an effective and reliable way. Python jr developer (focused on Data Engineering) with testing experience. I work well in teams, always willing to learn and share knowledge.
 
+
+`Experience:`
+- Develop Scripts (DAG's) in Airflow;
  
 <div>
 <p align="center">
