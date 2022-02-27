@@ -14,6 +14,18 @@
 
 `Experience:`
 - Develop Scripts (DAG's) in Airflow;
+- ETL;
+- Develop/maintain data pipelines to extract, transform, and move data into repositories such as: DW(BigQuery), AWS S3 Buckets, Google Cloud Storage;
+- Versioning with Git;
+- Use APIs for data integration via Python code;
+- Unit testing;
+- AWS (S3 Buckets, GLUE, Lambda functions);
+- GCP (BigQuery, GCS);
+- Docker;
+- IAS(Terraform);
+- Metabase;
+- SQL;
+- PostgresSQL;
  
 <div>
 <p align="center">
