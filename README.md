@@ -1,7 +1,4 @@
-<h1 align="center">Hi, I'm Rodrigo Azevedo!</h1>
-<h3 align="center">Data Engineer from Brazil</h3>
-
-<h5 align="center">- 📫 How to reach me razevedo.contato@gmail.com </h5>
+<h5 align="center">- 📫 Contact me: razevedo.contato@gmail.com </h5>
 
 <h5 align="center">Connect with me:</h5>
 <p align="center">
